@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!.vimrc
+!.vimrc-root
+!.bashrc
+!.tmux.conf
+!fzf-key-bindings.bash
+!requirements.txt
